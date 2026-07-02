@@ -21,7 +21,7 @@ The project aims to help hosts, investors, and stakeholders understand market tr
 
 ## 📊 Dashboard Preview
 
-![Airbnb Dashboard](images/airbnb.png)
+![Airbnb Dashboard](images/Airbnb.png)
 
 ---
 
