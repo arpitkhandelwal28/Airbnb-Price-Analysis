@@ -1,0 +1,301 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,reviews_per_month,availability_365
+1,Airbnb Listing 1,1310,Laura,Bronx,Bronx Area 14,40.867736,-74.072159,Entire home/apt,451,12,302,10.3,36
+2,Airbnb Listing 2,1627,Marisa,Staten Island,Staten Island Area 8,40.893301,-73.863478,Entire home/apt,359,13,222,11.5,342
+3,Airbnb Listing 3,1262,Olivia,Queens,Queens Area 16,40.596916,-73.79344,Shared room,446,3,216,9.5,88
+4,Airbnb Listing 4,1628,Amber,Brooklyn,Brooklyn Area 5,40.859899,-73.73138,Private room,500,2,168,4.5,160
+5,Airbnb Listing 5,1952,Justin,Bronx,Bronx Area 1,40.694407,-73.991509,Private room,327,7,268,2.1,264
+6,Airbnb Listing 6,1193,John,Bronx,Bronx Area 20,40.837639,-74.078771,Shared room,99,9,270,0.9,341
+7,Airbnb Listing 7,1887,Sabrina,Staten Island,Staten Island Area 9,40.532557,-73.914947,Shared room,472,15,225,3.1,151
+8,Airbnb Listing 8,1560,Debra,Brooklyn,Brooklyn Area 7,40.896008,-73.708825,Private room,392,14,136,3.0,126
+9,Airbnb Listing 9,1699,Emily,Brooklyn,Brooklyn Area 18,40.531496,-74.057528,Entire home/apt,289,13,74,7.3,321
+10,Airbnb Listing 10,1349,Andrea,Manhattan,Manhattan Area 16,40.645655,-74.08344,Private room,381,6,200,0.3,180
+11,Airbnb Listing 11,1973,Mark,Bronx,Bronx Area 20,40.518496,-74.017728,Private room,287,11,59,4.8,62
+12,Airbnb Listing 12,1676,Rebecca,Queens,Queens Area 15,40.877161,-73.720644,Shared room,87,7,64,8.4,280
+13,Airbnb Listing 13,1168,Dorothy,Staten Island,Staten Island Area 16,40.775241,-73.804351,Private room,52,4,303,3.0,11
+14,Airbnb Listing 14,1558,Mark,Bronx,Bronx Area 16,40.649531,-74.033609,Entire home/apt,468,10,49,1.1,328
+15,Airbnb Listing 15,1890,Darin,Queens,Queens Area 11,40.636486,-73.736507,Private room,527,4,105,5.1,170
+16,Airbnb Listing 16,1603,Katherine,Bronx,Bronx Area 15,40.891537,-74.013493,Shared room,477,3,68,8.8,322
+17,Airbnb Listing 17,1775,Lisa,Bronx,Bronx Area 1,40.566034,-73.972857,Shared room,255,7,197,2.6,244
+18,Airbnb Listing 18,1344,Julie,Staten Island,Staten Island Area 3,40.769156,-73.806002,Private room,208,9,27,4.6,310
+19,Airbnb Listing 19,1362,Ashley,Manhattan,Manhattan Area 1,40.529344,-74.053713,Entire home/apt,509,12,130,11.3,222
+20,Airbnb Listing 20,1704,Edward,Bronx,Bronx Area 7,40.709213,-73.995158,Entire home/apt,600,7,269,10.2,70
+21,Airbnb Listing 21,1770,Melissa,Brooklyn,Brooklyn Area 20,40.770608,-73.948839,Entire home/apt,517,8,213,7.1,26
+22,Airbnb Listing 22,1332,Stephanie,Manhattan,Manhattan Area 14,40.616162,-73.941652,Shared room,200,4,350,9.7,29
+23,Airbnb Listing 23,1732,Janice,Manhattan,Manhattan Area 16,40.858416,-73.904408,Shared room,579,11,220,0.7,251
+24,Airbnb Listing 24,1963,Alexander,Queens,Queens Area 15,40.508386,-73.979139,Entire home/apt,73,14,169,2.0,142
+25,Airbnb Listing 25,1336,John,Brooklyn,Brooklyn Area 2,40.714038,-73.857743,Entire home/apt,567,11,207,7.5,93
+26,Airbnb Listing 26,1891,Paul,Queens,Queens Area 10,40.796162,-73.788618,Private room,150,14,20,4.9,36
+27,Airbnb Listing 27,1346,James,Brooklyn,Brooklyn Area 17,40.824152,-73.819224,Shared room,402,9,200,7.4,304
+28,Airbnb Listing 28,1260,Jessica,Staten Island,Staten Island Area 13,40.833625,-73.911398,Shared room,167,4,350,0.2,242
+29,Airbnb Listing 29,1416,Cindy,Manhattan,Manhattan Area 15,40.513235,-73.980968,Shared room,219,4,252,1.8,174
+30,Airbnb Listing 30,1805,Samantha,Manhattan,Manhattan Area 15,40.725975,-73.952629,Shared room,232,12,190,9.5,65
+31,Airbnb Listing 31,1018,Jacqueline,Manhattan,Manhattan Area 17,40.844641,-74.082171,Entire home/apt,117,8,308,0.4,245
+32,Airbnb Listing 32,1937,Austin,Brooklyn,Brooklyn Area 4,40.849197,-73.985092,Private room,483,5,291,10.3,320
+33,Airbnb Listing 33,1025,Natalie,Bronx,Bronx Area 3,40.892223,-73.898507,Private room,449,15,287,7.4,317
+34,Airbnb Listing 34,1375,Katelyn,Manhattan,Manhattan Area 6,40.781763,-73.792734,Shared room,435,4,311,5.3,3
+35,Airbnb Listing 35,1918,Nicole,Bronx,Bronx Area 9,40.68017,-73.74832,Entire home/apt,181,15,33,5.2,11
+36,Airbnb Listing 36,1080,Jeffrey,Manhattan,Manhattan Area 3,40.646105,-73.931045,Private room,320,9,148,10.3,360
+37,Airbnb Listing 37,1681,Elizabeth,Brooklyn,Brooklyn Area 14,40.718305,-74.006156,Private room,103,14,108,8.9,189
+38,Airbnb Listing 38,1316,Joseph,Staten Island,Staten Island Area 12,40.833336,-73.989043,Private room,102,12,166,2.1,232
+39,Airbnb Listing 39,1707,Natalie,Bronx,Bronx Area 10,40.612258,-73.820561,Shared room,166,4,306,1.3,115
+40,Airbnb Listing 40,1804,Kathleen,Queens,Queens Area 9,40.598481,-73.923314,Private room,549,11,262,7.8,301
+41,Airbnb Listing 41,1780,Timothy,Queens,Queens Area 12,40.842938,-73.792855,Entire home/apt,101,3,190,7.6,277
+42,Airbnb Listing 42,1452,Allison,Brooklyn,Brooklyn Area 7,40.656285,-73.859556,Entire home/apt,496,5,296,1.6,8
+43,Airbnb Listing 43,1612,Kimberly,Queens,Queens Area 14,40.859445,-73.831978,Entire home/apt,420,14,164,10.6,173
+44,Airbnb Listing 44,1298,Harold,Manhattan,Manhattan Area 6,40.768864,-73.982884,Shared room,76,11,132,4.6,90
+45,Airbnb Listing 45,1660,Amanda,Manhattan,Manhattan Area 3,40.729254,-73.742118,Private room,474,15,143,11.4,356
+46,Airbnb Listing 46,1003,Andrew,Staten Island,Staten Island Area 15,40.656894,-73.794833,Private room,188,13,179,4.6,124
+47,Airbnb Listing 47,1945,Clinton,Queens,Queens Area 11,40.574139,-73.786267,Entire home/apt,577,9,131,2.4,94
+48,Airbnb Listing 48,1465,Ronald,Brooklyn,Brooklyn Area 6,40.803902,-73.814734,Private room,142,14,220,7.9,89
+49,Airbnb Listing 49,1273,Jeffrey,Manhattan,Manhattan Area 18,40.573748,-74.028208,Entire home/apt,87,14,1,6.0,355
+50,Airbnb Listing 50,1679,Mark,Staten Island,Staten Island Area 11,40.661925,-74.077601,Entire home/apt,91,6,210,9.3,269
+51,Airbnb Listing 51,1321,Erin,Brooklyn,Brooklyn Area 17,40.605008,-73.904434,Shared room,211,9,299,3.7,349
+52,Airbnb Listing 52,1366,Joseph,Queens,Queens Area 14,40.614966,-74.03682,Private room,441,15,275,5.6,88
+53,Airbnb Listing 53,1013,Holly,Brooklyn,Brooklyn Area 13,40.822926,-74.096807,Entire home/apt,246,1,114,4.9,189
+54,Airbnb Listing 54,1861,Cody,Staten Island,Staten Island Area 15,40.698354,-73.700374,Private room,504,11,137,2.5,328
+55,Airbnb Listing 55,1298,Lisa,Bronx,Bronx Area 3,40.676007,-73.700258,Shared room,287,14,205,1.0,48
+56,Airbnb Listing 56,1464,Jason,Brooklyn,Brooklyn Area 10,40.832935,-73.965958,Entire home/apt,209,15,245,3.7,34
+57,Airbnb Listing 57,1997,Denise,Queens,Queens Area 8,40.511904,-73.805997,Entire home/apt,405,4,105,8.3,73
+58,Airbnb Listing 58,1576,Ryan,Staten Island,Staten Island Area 18,40.683278,-73.962377,Entire home/apt,102,5,335,10.4,22
+59,Airbnb Listing 59,1640,Kathryn,Brooklyn,Brooklyn Area 15,40.552797,-73.830385,Private room,382,14,214,2.4,222
+60,Airbnb Listing 60,1621,Mary,Staten Island,Staten Island Area 12,40.809647,-73.969512,Entire home/apt,335,15,130,1.6,266
+61,Airbnb Listing 61,1050,Kevin,Bronx,Bronx Area 16,40.534337,-73.920063,Private room,464,10,22,10.9,218
+62,Airbnb Listing 62,1821,Ashley,Manhattan,Manhattan Area 6,40.86315,-73.867563,Entire home/apt,495,8,70,0.3,156
+63,Airbnb Listing 63,1082,Nancy,Manhattan,Manhattan Area 5,40.85275,-73.935822,Entire home/apt,596,12,160,11.3,302
+64,Airbnb Listing 64,1158,Gregory,Brooklyn,Brooklyn Area 5,40.692565,-73.961652,Shared room,67,7,196,10.0,4
+65,Airbnb Listing 65,1186,John,Queens,Queens Area 1,40.771665,-73.922705,Shared room,89,6,216,10.6,287
+66,Airbnb Listing 66,1226,Joseph,Brooklyn,Brooklyn Area 9,40.53642,-73.779031,Entire home/apt,345,10,223,2.5,186
+67,Airbnb Listing 67,1651,Alexandra,Queens,Queens Area 7,40.500057,-73.994669,Private room,139,7,292,12.0,21
+68,Airbnb Listing 68,1507,Jennifer,Bronx,Bronx Area 5,40.500644,-73.926162,Entire home/apt,114,5,222,0.3,68
+69,Airbnb Listing 69,1771,William,Staten Island,Staten Island Area 16,40.633588,-74.060007,Entire home/apt,276,14,273,0.7,347
+70,Airbnb Listing 70,1335,Joshua,Queens,Queens Area 11,40.629703,-73.95407,Shared room,399,5,249,1.4,233
+71,Airbnb Listing 71,1842,Thomas,Staten Island,Staten Island Area 8,40.665632,-73.777322,Shared room,335,3,194,11.6,312
+72,Airbnb Listing 72,1156,Nicholas,Manhattan,Manhattan Area 10,40.776306,-74.05593,Shared room,491,13,131,5.5,337
+73,Airbnb Listing 73,1116,Mike,Brooklyn,Brooklyn Area 13,40.587842,-73.800288,Private room,499,3,336,9.5,100
+74,Airbnb Listing 74,1754,Michael,Queens,Queens Area 18,40.5213,-74.056171,Private room,112,13,334,0.8,48
+75,Airbnb Listing 75,1302,Patrick,Staten Island,Staten Island Area 9,40.805508,-73.970522,Shared room,278,13,226,10.5,296
+76,Airbnb Listing 76,1515,Pamela,Bronx,Bronx Area 20,40.887122,-73.834956,Shared room,358,11,274,10.9,137
+77,Airbnb Listing 77,1284,Tonya,Manhattan,Manhattan Area 2,40.764894,-73.919226,Entire home/apt,125,6,61,7.3,119
+78,Airbnb Listing 78,1166,Jessica,Queens,Queens Area 10,40.844695,-73.921788,Shared room,545,14,234,3.3,206
+79,Airbnb Listing 79,1770,Joseph,Brooklyn,Brooklyn Area 14,40.513882,-73.71529,Shared room,207,7,35,9.3,312
+80,Airbnb Listing 80,1539,Robert,Brooklyn,Brooklyn Area 6,40.869055,-73.797325,Private room,50,6,103,0.6,361
+81,Airbnb Listing 81,1368,Mercedes,Staten Island,Staten Island Area 20,40.801316,-73.949587,Private room,244,6,87,5.9,317
+82,Airbnb Listing 82,1797,Melanie,Queens,Queens Area 20,40.648398,-73.849575,Shared room,340,2,150,3.5,18
+83,Airbnb Listing 83,1890,Bobby,Staten Island,Staten Island Area 20,40.608773,-73.796993,Private room,319,6,105,4.3,235
+84,Airbnb Listing 84,1301,Amy,Brooklyn,Brooklyn Area 13,40.899405,-73.877889,Private room,77,3,267,10.6,138
+85,Airbnb Listing 85,1878,Stephanie,Bronx,Bronx Area 5,40.667916,-73.848766,Private room,482,2,15,9.5,6
+86,Airbnb Listing 86,1522,Autumn,Brooklyn,Brooklyn Area 1,40.843654,-74.071818,Entire home/apt,200,2,4,8.2,59
+87,Airbnb Listing 87,1602,Erik,Bronx,Bronx Area 3,40.53951,-73.737098,Private room,592,7,129,0.8,136
+88,Airbnb Listing 88,1964,Randy,Bronx,Bronx Area 14,40.563158,-74.081065,Entire home/apt,161,8,297,6.0,146
+89,Airbnb Listing 89,1974,Amber,Brooklyn,Brooklyn Area 5,40.544133,-73.719946,Shared room,579,9,69,2.2,138
+90,Airbnb Listing 90,1955,Amanda,Manhattan,Manhattan Area 4,40.736755,-74.035373,Entire home/apt,538,3,293,8.3,128
+91,Airbnb Listing 91,1881,Shannon,Queens,Queens Area 17,40.550581,-73.836545,Shared room,124,13,156,4.5,116
+92,Airbnb Listing 92,1528,Haley,Queens,Queens Area 11,40.787796,-73.787226,Shared room,430,7,45,1.0,168
+93,Airbnb Listing 93,1387,Gina,Bronx,Bronx Area 10,40.799438,-73.792024,Shared room,316,5,92,6.8,288
+94,Airbnb Listing 94,1524,Natasha,Queens,Queens Area 4,40.507759,-73.82945,Private room,458,10,330,1.4,326
+95,Airbnb Listing 95,1662,Desiree,Queens,Queens Area 2,40.76069,-73.83426,Entire home/apt,466,4,244,9.9,103
+96,Airbnb Listing 96,1327,Lisa,Staten Island,Staten Island Area 4,40.725148,-73.788504,Shared room,487,7,123,0.8,34
+97,Airbnb Listing 97,1038,Gary,Queens,Queens Area 6,40.56934,-73.962529,Private room,273,2,304,5.7,253
+98,Airbnb Listing 98,1923,David,Manhattan,Manhattan Area 16,40.71652,-73.963811,Shared room,574,15,320,9.0,160
+99,Airbnb Listing 99,1496,Cameron,Brooklyn,Brooklyn Area 18,40.845763,-73.719588,Private room,551,8,52,1.0,337
+100,Airbnb Listing 100,1151,Randy,Staten Island,Staten Island Area 14,40.690547,-73.787985,Entire home/apt,434,3,295,8.4,292
+101,Airbnb Listing 101,1573,Heather,Manhattan,Manhattan Area 12,40.705054,-73.90766,Entire home/apt,337,6,123,1.2,149
+102,Airbnb Listing 102,1124,Tricia,Bronx,Bronx Area 11,40.669175,-74.045794,Entire home/apt,280,9,345,5.4,99
+103,Airbnb Listing 103,1246,Gary,Manhattan,Manhattan Area 5,40.608962,-73.902692,Shared room,551,7,256,0.9,243
+104,Airbnb Listing 104,1566,Kevin,Bronx,Bronx Area 5,40.834055,-74.080118,Private room,142,4,260,4.6,37
+105,Airbnb Listing 105,1558,William,Brooklyn,Brooklyn Area 9,40.785634,-73.871562,Private room,411,6,327,1.8,267
+106,Airbnb Listing 106,1963,Michelle,Brooklyn,Brooklyn Area 7,40.845611,-73.979991,Private room,172,10,324,9.1,10
+107,Airbnb Listing 107,1167,David,Queens,Queens Area 1,40.877022,-73.704634,Shared room,107,3,151,7.7,287
+108,Airbnb Listing 108,1428,Jeffrey,Manhattan,Manhattan Area 2,40.709822,-73.799024,Shared room,208,4,201,5.2,178
+109,Airbnb Listing 109,1571,Kelly,Queens,Queens Area 10,40.765554,-73.991223,Entire home/apt,192,8,126,7.9,177
+110,Airbnb Listing 110,1989,Anthony,Brooklyn,Brooklyn Area 19,40.846092,-73.987062,Private room,132,12,51,10.2,132
+111,Airbnb Listing 111,1693,William,Staten Island,Staten Island Area 7,40.560341,-73.824742,Entire home/apt,182,3,146,0.4,163
+112,Airbnb Listing 112,1857,Madison,Queens,Queens Area 9,40.670514,-73.792726,Shared room,239,15,53,9.4,122
+113,Airbnb Listing 113,1032,Christina,Staten Island,Staten Island Area 13,40.841862,-74.058705,Entire home/apt,435,1,180,8.9,269
+114,Airbnb Listing 114,1104,Karen,Queens,Queens Area 5,40.836802,-73.825482,Private room,558,14,320,4.2,67
+115,Airbnb Listing 115,1529,John,Bronx,Bronx Area 2,40.611132,-73.718874,Entire home/apt,408,10,126,0.3,55
+116,Airbnb Listing 116,1773,Haley,Manhattan,Manhattan Area 15,40.778224,-73.867201,Entire home/apt,450,15,54,5.8,273
+117,Airbnb Listing 117,1665,Taylor,Brooklyn,Brooklyn Area 4,40.611634,-73.776561,Shared room,225,2,186,3.1,240
+118,Airbnb Listing 118,1494,Jimmy,Staten Island,Staten Island Area 20,40.825877,-73.769768,Entire home/apt,420,11,328,9.6,9
+119,Airbnb Listing 119,1597,Brett,Staten Island,Staten Island Area 12,40.672714,-74.035036,Private room,410,2,340,1.4,236
+120,Airbnb Listing 120,1923,Jamie,Staten Island,Staten Island Area 6,40.539042,-73.77857,Entire home/apt,242,13,313,11.9,174
+121,Airbnb Listing 121,1431,Peter,Staten Island,Staten Island Area 15,40.56505,-73.77162,Private room,303,15,206,11.8,172
+122,Airbnb Listing 122,1607,Brittney,Bronx,Bronx Area 12,40.698467,-73.852582,Entire home/apt,197,11,142,11.6,283
+123,Airbnb Listing 123,1567,Brianna,Queens,Queens Area 15,40.823843,-73.928417,Private room,432,7,224,10.9,344
+124,Airbnb Listing 124,1069,Kendra,Bronx,Bronx Area 20,40.640049,-73.989936,Shared room,412,7,183,4.3,359
+125,Airbnb Listing 125,1592,James,Manhattan,Manhattan Area 12,40.854009,-73.889147,Entire home/apt,236,7,231,3.7,152
+126,Airbnb Listing 126,1549,John,Brooklyn,Brooklyn Area 10,40.770306,-73.874674,Private room,220,4,292,1.3,323
+127,Airbnb Listing 127,1225,Eric,Brooklyn,Brooklyn Area 19,40.768793,-74.038532,Shared room,300,4,60,10.3,297
+128,Airbnb Listing 128,1112,Susan,Staten Island,Staten Island Area 16,40.813433,-73.921621,Private room,246,5,102,9.9,106
+129,Airbnb Listing 129,1169,Phillip,Manhattan,Manhattan Area 17,40.809116,-74.012932,Shared room,423,3,16,7.3,355
+130,Airbnb Listing 130,1694,Timothy,Manhattan,Manhattan Area 18,40.859131,-73.816333,Private room,286,7,294,4.9,214
+131,Airbnb Listing 131,1845,Steven,Queens,Queens Area 12,40.895263,-74.072141,Shared room,322,10,174,4.1,351
+132,Airbnb Listing 132,1162,Paul,Brooklyn,Brooklyn Area 2,40.781151,-74.009076,Entire home/apt,495,4,310,11.7,120
+133,Airbnb Listing 133,1813,Emily,Manhattan,Manhattan Area 6,40.832868,-73.971409,Shared room,467,3,186,10.6,30
+134,Airbnb Listing 134,1404,Elizabeth,Manhattan,Manhattan Area 10,40.680354,-73.844817,Private room,169,7,2,8.2,179
+135,Airbnb Listing 135,1109,John,Manhattan,Manhattan Area 8,40.602051,-73.97569,Entire home/apt,435,7,205,11.2,150
+136,Airbnb Listing 136,1117,Haley,Bronx,Bronx Area 3,40.869057,-73.841092,Shared room,213,13,188,10.7,213
+137,Airbnb Listing 137,1698,John,Bronx,Bronx Area 17,40.505525,-73.813435,Private room,429,5,68,4.2,270
+138,Airbnb Listing 138,1197,Michael,Bronx,Bronx Area 16,40.508922,-73.771698,Entire home/apt,75,8,134,11.5,320
+139,Airbnb Listing 139,1151,Ricardo,Staten Island,Staten Island Area 10,40.557391,-73.719231,Shared room,479,1,76,10.5,279
+140,Airbnb Listing 140,1425,Zachary,Queens,Queens Area 7,40.866853,-73.794175,Shared room,74,7,204,4.8,237
+141,Airbnb Listing 141,1125,Sharon,Staten Island,Staten Island Area 1,40.714751,-73.825542,Private room,196,8,307,3.9,222
+142,Airbnb Listing 142,1387,Elizabeth,Manhattan,Manhattan Area 16,40.768304,-73.802267,Shared room,452,1,291,8.4,188
+143,Airbnb Listing 143,1151,David,Bronx,Bronx Area 15,40.831222,-73.763262,Entire home/apt,397,14,219,6.6,81
+144,Airbnb Listing 144,1076,Michelle,Queens,Queens Area 17,40.857404,-73.899497,Shared room,501,12,144,7.6,252
+145,Airbnb Listing 145,1970,Angela,Queens,Queens Area 11,40.878056,-74.065926,Shared room,185,10,285,11.8,324
+146,Airbnb Listing 146,1897,Clifford,Brooklyn,Brooklyn Area 4,40.659331,-73.912175,Shared room,182,13,325,6.6,34
+147,Airbnb Listing 147,1209,Stacie,Staten Island,Staten Island Area 12,40.724042,-73.958695,Private room,162,11,196,3.7,173
+148,Airbnb Listing 148,1893,Kayla,Brooklyn,Brooklyn Area 7,40.591309,-73.922381,Entire home/apt,267,4,169,4.1,99
+149,Airbnb Listing 149,1330,Kim,Manhattan,Manhattan Area 15,40.551057,-73.780755,Entire home/apt,174,5,23,5.6,260
+150,Airbnb Listing 150,1752,Stacy,Staten Island,Staten Island Area 4,40.553382,-73.973329,Private room,460,13,245,7.7,115
+151,Airbnb Listing 151,1422,Richard,Brooklyn,Brooklyn Area 13,40.547523,-73.907084,Entire home/apt,522,5,319,10.8,125
+152,Airbnb Listing 152,1231,Ashley,Staten Island,Staten Island Area 13,40.682724,-73.763499,Entire home/apt,297,9,282,0.6,296
+153,Airbnb Listing 153,1792,Danny,Staten Island,Staten Island Area 10,40.581432,-73.711078,Entire home/apt,227,6,340,8.3,251
+154,Airbnb Listing 154,1045,Bruce,Bronx,Bronx Area 4,40.621699,-73.756351,Entire home/apt,146,2,245,10.1,198
+155,Airbnb Listing 155,1926,Kyle,Manhattan,Manhattan Area 14,40.81517,-73.87321,Private room,84,11,102,3.9,214
+156,Airbnb Listing 156,1104,Christopher,Bronx,Bronx Area 3,40.578736,-73.94533,Shared room,339,6,285,11.4,51
+157,Airbnb Listing 157,1586,Michelle,Manhattan,Manhattan Area 9,40.629618,-73.704917,Private room,563,15,161,0.4,220
+158,Airbnb Listing 158,1893,Patricia,Queens,Queens Area 3,40.610096,-73.715266,Entire home/apt,73,1,171,9.5,65
+159,Airbnb Listing 159,1540,Martin,Brooklyn,Brooklyn Area 4,40.608298,-74.042523,Entire home/apt,413,6,5,10.0,358
+160,Airbnb Listing 160,1781,James,Queens,Queens Area 9,40.575335,-74.059639,Private room,387,1,22,2.9,89
+161,Airbnb Listing 161,1129,Kyle,Staten Island,Staten Island Area 6,40.756408,-74.055459,Private room,585,9,323,3.3,201
+162,Airbnb Listing 162,1470,Ashley,Manhattan,Manhattan Area 6,40.856972,-74.091294,Private room,543,11,192,9.4,112
+163,Airbnb Listing 163,1342,Kristy,Bronx,Bronx Area 20,40.512996,-74.094057,Shared room,386,6,256,8.6,364
+164,Airbnb Listing 164,1162,Sara,Manhattan,Manhattan Area 12,40.574646,-74.022513,Shared room,371,7,67,6.8,167
+165,Airbnb Listing 165,1479,Brent,Manhattan,Manhattan Area 1,40.599223,-73.884058,Entire home/apt,161,12,197,6.8,354
+166,Airbnb Listing 166,1720,Michael,Brooklyn,Brooklyn Area 13,40.76759,-73.91945,Entire home/apt,511,12,157,11.4,341
+167,Airbnb Listing 167,1759,Theresa,Staten Island,Staten Island Area 3,40.555817,-73.947023,Private room,549,9,8,1.0,348
+168,Airbnb Listing 168,1277,Kyle,Staten Island,Staten Island Area 6,40.592425,-73.929753,Shared room,278,10,149,10.6,225
+169,Airbnb Listing 169,1213,John,Manhattan,Manhattan Area 14,40.723522,-74.034562,Entire home/apt,208,14,267,5.8,277
+170,Airbnb Listing 170,1922,Tamara,Queens,Queens Area 10,40.640492,-73.761381,Private room,347,12,145,7.8,160
+171,Airbnb Listing 171,1261,Shannon,Manhattan,Manhattan Area 13,40.844866,-73.837504,Private room,515,1,235,6.5,108
+172,Airbnb Listing 172,1673,Michael,Queens,Queens Area 11,40.781865,-73.891682,Private room,337,5,329,5.1,256
+173,Airbnb Listing 173,1530,Dean,Bronx,Bronx Area 15,40.533336,-74.070112,Private room,476,2,305,3.9,193
+174,Airbnb Listing 174,1229,Linda,Brooklyn,Brooklyn Area 10,40.618752,-74.085771,Private room,565,8,240,1.3,6
+175,Airbnb Listing 175,1065,Michael,Manhattan,Manhattan Area 19,40.598262,-73.842596,Shared room,365,5,77,6.6,34
+176,Airbnb Listing 176,1264,Victoria,Queens,Queens Area 11,40.663717,-73.986137,Private room,370,9,339,9.1,259
+177,Airbnb Listing 177,1287,Andrea,Brooklyn,Brooklyn Area 20,40.889832,-74.062411,Private room,598,14,282,9.8,190
+178,Airbnb Listing 178,1700,Jessica,Staten Island,Staten Island Area 17,40.531149,-73.892243,Private room,372,13,333,6.8,225
+179,Airbnb Listing 179,1930,Chad,Queens,Queens Area 4,40.559109,-73.996849,Entire home/apt,333,7,66,10.3,167
+180,Airbnb Listing 180,1933,David,Brooklyn,Brooklyn Area 17,40.729525,-74.056347,Entire home/apt,239,14,281,8.2,113
+181,Airbnb Listing 181,1466,Scott,Queens,Queens Area 13,40.775411,-74.093958,Entire home/apt,128,6,105,11.4,160
+182,Airbnb Listing 182,2000,Jason,Staten Island,Staten Island Area 20,40.836932,-73.995576,Entire home/apt,436,6,309,9.4,347
+183,Airbnb Listing 183,1468,Brett,Bronx,Bronx Area 16,40.828023,-73.932723,Shared room,110,10,293,4.7,156
+184,Airbnb Listing 184,1993,Ashley,Staten Island,Staten Island Area 12,40.848496,-73.78446,Private room,308,10,16,4.6,85
+185,Airbnb Listing 185,1495,Cindy,Manhattan,Manhattan Area 3,40.503096,-73.941705,Private room,96,7,256,1.6,92
+186,Airbnb Listing 186,1944,Sarah,Queens,Queens Area 20,40.676164,-73.952883,Shared room,551,12,100,5.7,268
+187,Airbnb Listing 187,1360,Benjamin,Queens,Queens Area 13,40.599211,-74.087734,Private room,264,12,242,1.5,40
+188,Airbnb Listing 188,1625,Timothy,Bronx,Bronx Area 3,40.771912,-73.758529,Private room,522,10,63,2.3,325
+189,Airbnb Listing 189,1414,Jack,Brooklyn,Brooklyn Area 16,40.778216,-73.95284,Shared room,582,6,51,11.4,237
+190,Airbnb Listing 190,1655,Eric,Brooklyn,Brooklyn Area 9,40.620513,-74.004486,Shared room,514,1,101,9.9,333
+191,Airbnb Listing 191,1733,John,Brooklyn,Brooklyn Area 1,40.635961,-73.750323,Shared room,574,3,69,6.9,139
+192,Airbnb Listing 192,1973,Joy,Brooklyn,Brooklyn Area 11,40.724014,-73.792289,Shared room,576,5,146,0.1,201
+193,Airbnb Listing 193,1496,Rebecca,Manhattan,Manhattan Area 19,40.50525,-73.962443,Entire home/apt,481,2,157,8.0,362
+194,Airbnb Listing 194,1525,Trevor,Manhattan,Manhattan Area 12,40.751483,-73.960281,Entire home/apt,525,6,18,7.7,78
+195,Airbnb Listing 195,1073,Brandi,Brooklyn,Brooklyn Area 13,40.715285,-73.856976,Private room,460,13,298,0.9,256
+196,Airbnb Listing 196,1096,Stephanie,Queens,Queens Area 17,40.711151,-73.981093,Private room,206,13,1,11.8,323
+197,Airbnb Listing 197,1967,Tamara,Bronx,Bronx Area 20,40.552427,-73.989242,Entire home/apt,406,15,255,9.7,282
+198,Airbnb Listing 198,1565,Xavier,Queens,Queens Area 20,40.553674,-73.857173,Entire home/apt,453,5,242,9.2,73
+199,Airbnb Listing 199,1519,Denise,Queens,Queens Area 13,40.601081,-74.007771,Private room,98,1,98,3.2,32
+200,Airbnb Listing 200,1670,Sarah,Queens,Queens Area 7,40.749833,-73.929814,Private room,510,2,45,7.0,355
+201,Airbnb Listing 201,1527,Benjamin,Staten Island,Staten Island Area 1,40.577197,-73.953956,Shared room,577,1,56,9.9,71
+202,Airbnb Listing 202,1412,Brianna,Queens,Queens Area 9,40.627922,-73.75402,Shared room,267,8,20,7.0,125
+203,Airbnb Listing 203,1227,Jessica,Queens,Queens Area 12,40.822228,-74.039562,Private room,579,8,145,10.9,199
+204,Airbnb Listing 204,1660,Danielle,Bronx,Bronx Area 12,40.876339,-73.758531,Shared room,231,12,22,2.3,320
+205,Airbnb Listing 205,1943,Sandra,Brooklyn,Brooklyn Area 11,40.693826,-73.768751,Entire home/apt,107,5,2,5.4,224
+206,Airbnb Listing 206,1572,Doris,Brooklyn,Brooklyn Area 7,40.863496,-73.778945,Entire home/apt,390,2,124,2.6,165
+207,Airbnb Listing 207,1863,Richard,Brooklyn,Brooklyn Area 4,40.505222,-73.817588,Shared room,117,12,163,5.7,138
+208,Airbnb Listing 208,1181,Matthew,Bronx,Bronx Area 16,40.597076,-73.720325,Shared room,436,1,295,1.3,325
+209,Airbnb Listing 209,1912,Amanda,Staten Island,Staten Island Area 14,40.658087,-73.895801,Shared room,260,7,152,1.1,331
+210,Airbnb Listing 210,1290,Danielle,Staten Island,Staten Island Area 12,40.701916,-73.762155,Entire home/apt,464,4,287,11.8,45
+211,Airbnb Listing 211,1867,Bryan,Staten Island,Staten Island Area 8,40.66729,-73.901816,Private room,196,7,23,11.4,206
+212,Airbnb Listing 212,1494,Hannah,Bronx,Bronx Area 5,40.722982,-74.074609,Shared room,202,2,187,10.9,87
+213,Airbnb Listing 213,1610,Rodney,Bronx,Bronx Area 1,40.615996,-73.887876,Entire home/apt,385,13,7,3.8,359
+214,Airbnb Listing 214,1857,Matthew,Staten Island,Staten Island Area 12,40.853801,-73.824336,Shared room,209,8,170,8.2,61
+215,Airbnb Listing 215,1219,Matthew,Staten Island,Staten Island Area 5,40.800654,-74.063502,Entire home/apt,157,8,297,2.6,351
+216,Airbnb Listing 216,1260,Julie,Queens,Queens Area 3,40.563495,-73.722184,Private room,391,10,150,1.1,185
+217,Airbnb Listing 217,1210,Grace,Queens,Queens Area 15,40.557308,-74.03262,Private room,555,4,225,1.6,178
+218,Airbnb Listing 218,1610,Roger,Manhattan,Manhattan Area 20,40.617412,-73.917474,Shared room,56,14,333,5.1,259
+219,Airbnb Listing 219,1101,Ian,Bronx,Bronx Area 19,40.88161,-74.086561,Private room,300,4,140,7.1,247
+220,Airbnb Listing 220,1626,Rose,Staten Island,Staten Island Area 9,40.514138,-73.866518,Entire home/apt,76,10,76,4.3,42
+221,Airbnb Listing 221,1029,Nancy,Brooklyn,Brooklyn Area 10,40.831016,-73.837056,Shared room,60,10,309,7.9,227
+222,Airbnb Listing 222,1386,Lawrence,Bronx,Bronx Area 2,40.588442,-73.747966,Entire home/apt,224,3,93,9.4,269
+223,Airbnb Listing 223,1994,Heather,Staten Island,Staten Island Area 7,40.721292,-73.880689,Shared room,62,3,259,10.7,123
+224,Airbnb Listing 224,1964,Felicia,Staten Island,Staten Island Area 12,40.849409,-73.720193,Entire home/apt,489,9,143,2.5,133
+225,Airbnb Listing 225,1164,Wayne,Queens,Queens Area 7,40.561655,-73.964787,Shared room,323,1,227,1.1,153
+226,Airbnb Listing 226,1292,Carolyn,Bronx,Bronx Area 3,40.826883,-74.044064,Private room,237,3,224,3.7,29
+227,Airbnb Listing 227,1492,Erin,Brooklyn,Brooklyn Area 20,40.582293,-74.025026,Shared room,162,7,132,5.8,310
+228,Airbnb Listing 228,1367,Jerry,Brooklyn,Brooklyn Area 1,40.652384,-73.720469,Private room,550,7,119,1.2,128
+229,Airbnb Listing 229,1231,Joshua,Bronx,Bronx Area 15,40.561717,-74.0934,Private room,418,6,328,7.5,284
+230,Airbnb Listing 230,1114,Jennifer,Staten Island,Staten Island Area 9,40.542582,-73.838853,Shared room,326,6,237,10.4,278
+231,Airbnb Listing 231,1756,Stephanie,Queens,Queens Area 5,40.848093,-74.07661,Shared room,586,8,297,2.6,124
+232,Airbnb Listing 232,1065,Brian,Brooklyn,Brooklyn Area 11,40.886256,-73.901695,Entire home/apt,409,3,174,4.6,184
+233,Airbnb Listing 233,1677,Edward,Staten Island,Staten Island Area 7,40.771966,-73.899662,Private room,160,1,285,7.9,238
+234,Airbnb Listing 234,1733,Rachel,Queens,Queens Area 10,40.881278,-73.923129,Private room,515,10,346,8.6,243
+235,Airbnb Listing 235,1578,Jeffrey,Brooklyn,Brooklyn Area 5,40.611102,-73.724032,Entire home/apt,477,12,93,11.6,303
+236,Airbnb Listing 236,1379,Amanda,Queens,Queens Area 10,40.672263,-74.051841,Private room,556,15,49,7.9,262
+237,Airbnb Listing 237,1770,Nicole,Bronx,Bronx Area 14,40.838258,-73.991805,Private room,176,10,38,5.8,346
+238,Airbnb Listing 238,1258,Debra,Manhattan,Manhattan Area 15,40.521871,-73.701061,Shared room,538,7,290,5.0,9
+239,Airbnb Listing 239,1241,Alyssa,Manhattan,Manhattan Area 20,40.556262,-74.008942,Entire home/apt,459,6,232,7.9,138
+240,Airbnb Listing 240,1802,Jenny,Queens,Queens Area 16,40.83832,-73.730724,Shared room,94,8,155,4.5,225
+241,Airbnb Listing 241,1213,Sierra,Queens,Queens Area 1,40.734968,-74.082009,Shared room,573,15,111,1.0,241
+242,Airbnb Listing 242,1144,Bryan,Brooklyn,Brooklyn Area 4,40.701234,-73.842527,Shared room,420,10,274,10.7,46
+243,Airbnb Listing 243,1832,Emma,Manhattan,Manhattan Area 12,40.633588,-73.710731,Entire home/apt,483,10,296,5.6,31
+244,Airbnb Listing 244,1017,Clarence,Bronx,Bronx Area 14,40.586723,-73.906354,Private room,531,13,174,11.9,56
+245,Airbnb Listing 245,1441,Michael,Staten Island,Staten Island Area 16,40.584701,-73.744599,Private room,444,6,76,8.2,226
+246,Airbnb Listing 246,1416,Shannon,Bronx,Bronx Area 15,40.796055,-74.006934,Shared room,274,5,21,0.2,188
+247,Airbnb Listing 247,1952,Raymond,Bronx,Bronx Area 19,40.613315,-73.866927,Shared room,591,8,126,9.2,83
+248,Airbnb Listing 248,1878,Paul,Brooklyn,Brooklyn Area 10,40.889088,-73.854216,Entire home/apt,402,8,227,5.5,0
+249,Airbnb Listing 249,1307,Leonard,Brooklyn,Brooklyn Area 3,40.672471,-73.71933,Entire home/apt,109,2,73,1.8,48
+250,Airbnb Listing 250,1474,Amanda,Bronx,Bronx Area 7,40.696906,-73.831305,Entire home/apt,91,8,92,7.4,21
+251,Airbnb Listing 251,1312,Sara,Manhattan,Manhattan Area 17,40.641583,-73.925116,Entire home/apt,547,6,195,5.0,153
+252,Airbnb Listing 252,1919,Aaron,Manhattan,Manhattan Area 1,40.756363,-73.772042,Entire home/apt,334,7,221,2.4,146
+253,Airbnb Listing 253,1125,Amber,Queens,Queens Area 4,40.786437,-73.738324,Shared room,361,15,291,8.6,336
+254,Airbnb Listing 254,1896,Steven,Manhattan,Manhattan Area 16,40.856986,-73.705828,Shared room,541,10,248,10.6,35
+255,Airbnb Listing 255,1685,Isaiah,Brooklyn,Brooklyn Area 20,40.821311,-74.094575,Shared room,402,11,77,4.4,236
+256,Airbnb Listing 256,1073,Michael,Manhattan,Manhattan Area 12,40.588867,-73.77811,Entire home/apt,560,8,177,8.0,148
+257,Airbnb Listing 257,1584,Laura,Staten Island,Staten Island Area 8,40.595579,-73.991494,Private room,494,2,48,11.0,17
+258,Airbnb Listing 258,1556,William,Bronx,Bronx Area 8,40.88565,-73.711454,Private room,245,5,0,10.4,247
+259,Airbnb Listing 259,1651,Vanessa,Queens,Queens Area 17,40.648367,-73.912627,Entire home/apt,365,12,68,7.8,218
+260,Airbnb Listing 260,1068,Austin,Manhattan,Manhattan Area 15,40.728445,-73.94788,Entire home/apt,489,5,166,0.8,78
+261,Airbnb Listing 261,1141,Kimberly,Brooklyn,Brooklyn Area 4,40.731703,-73.719831,Private room,356,8,184,7.4,195
+262,Airbnb Listing 262,1236,Barry,Manhattan,Manhattan Area 5,40.566422,-73.841133,Entire home/apt,263,12,273,0.7,161
+263,Airbnb Listing 263,1663,Robert,Queens,Queens Area 14,40.615423,-73.923273,Shared room,338,13,254,8.6,63
+264,Airbnb Listing 264,1889,Alexandra,Bronx,Bronx Area 6,40.56769,-73.807407,Shared room,85,11,135,7.6,336
+265,Airbnb Listing 265,1763,Sharon,Manhattan,Manhattan Area 13,40.72149,-73.969133,Entire home/apt,397,10,162,5.6,109
+266,Airbnb Listing 266,1821,Nicholas,Staten Island,Staten Island Area 4,40.695028,-73.948246,Entire home/apt,260,11,4,10.0,355
+267,Airbnb Listing 267,1155,Christopher,Queens,Queens Area 18,40.859167,-74.00169,Shared room,386,3,308,6.1,9
+268,Airbnb Listing 268,1887,William,Brooklyn,Brooklyn Area 12,40.768458,-73.706808,Entire home/apt,316,15,223,11.4,85
+269,Airbnb Listing 269,1832,Debra,Manhattan,Manhattan Area 1,40.829031,-73.98078,Shared room,157,2,65,6.0,294
+270,Airbnb Listing 270,1954,Eric,Staten Island,Staten Island Area 9,40.791823,-73.99155,Shared room,210,12,33,10.4,6
+271,Airbnb Listing 271,1793,Melinda,Manhattan,Manhattan Area 20,40.549083,-73.700321,Shared room,240,13,128,0.5,96
+272,Airbnb Listing 272,1550,Kayla,Brooklyn,Brooklyn Area 7,40.895702,-73.738507,Shared room,215,15,145,11.2,305
+273,Airbnb Listing 273,1422,Megan,Staten Island,Staten Island Area 15,40.556036,-73.860858,Private room,387,9,275,5.8,47
+274,Airbnb Listing 274,1935,Mary,Bronx,Bronx Area 20,40.868243,-74.023901,Private room,119,5,273,3.2,195
+275,Airbnb Listing 275,1459,Kim,Manhattan,Manhattan Area 7,40.867453,-73.707048,Private room,516,15,326,9.8,319
+276,Airbnb Listing 276,1741,Eric,Bronx,Bronx Area 5,40.530044,-73.709276,Entire home/apt,68,10,74,8.6,351
+277,Airbnb Listing 277,1668,Douglas,Queens,Queens Area 20,40.619559,-73.784744,Private room,518,10,164,5.5,266
+278,Airbnb Listing 278,1972,Brenda,Bronx,Bronx Area 6,40.662759,-73.812697,Private room,233,15,117,0.1,95
+279,Airbnb Listing 279,1767,Richard,Brooklyn,Brooklyn Area 9,40.660043,-73.743872,Entire home/apt,597,3,315,4.1,292
+280,Airbnb Listing 280,1426,Anne,Staten Island,Staten Island Area 19,40.724937,-73.899393,Shared room,184,15,30,9.0,105
+281,Airbnb Listing 281,1652,Kelly,Brooklyn,Brooklyn Area 8,40.614221,-73.906604,Entire home/apt,530,9,143,11.5,123
+282,Airbnb Listing 282,1513,Ashley,Manhattan,Manhattan Area 12,40.819023,-73.92648,Private room,83,13,80,2.6,157
+283,Airbnb Listing 283,1431,Jamie,Manhattan,Manhattan Area 8,40.66303,-74.030065,Shared room,88,10,223,10.3,117
+284,Airbnb Listing 284,1084,Ronald,Staten Island,Staten Island Area 18,40.837357,-73.86636,Private room,360,9,224,8.5,247
+285,Airbnb Listing 285,1707,Rachel,Queens,Queens Area 17,40.68253,-73.845311,Entire home/apt,555,12,168,5.9,244
+286,Airbnb Listing 286,1674,James,Bronx,Bronx Area 19,40.639163,-73.887728,Shared room,168,14,350,10.0,348
+287,Airbnb Listing 287,1716,Heidi,Bronx,Bronx Area 9,40.829491,-73.954187,Shared room,311,1,5,3.8,24
+288,Airbnb Listing 288,1109,Rebecca,Manhattan,Manhattan Area 2,40.649673,-73.924906,Entire home/apt,76,7,24,11.9,279
+289,Airbnb Listing 289,1065,Kimberly,Staten Island,Staten Island Area 6,40.522837,-74.036746,Shared room,162,4,233,9.0,280
+290,Airbnb Listing 290,1267,Katherine,Bronx,Bronx Area 3,40.518501,-73.951432,Private room,584,15,18,8.0,187
+291,Airbnb Listing 291,1792,Jonathan,Queens,Queens Area 12,40.877437,-73.989283,Entire home/apt,116,1,199,3.9,223
+292,Airbnb Listing 292,1609,Jean,Manhattan,Manhattan Area 16,40.807301,-74.074283,Shared room,147,13,242,7.2,211
+293,Airbnb Listing 293,1574,Jeffery,Bronx,Bronx Area 8,40.612932,-74.065091,Entire home/apt,309,6,74,9.1,233
+294,Airbnb Listing 294,1221,Kathleen,Bronx,Bronx Area 2,40.878642,-73.712477,Entire home/apt,420,9,134,5.0,90
+295,Airbnb Listing 295,1159,Kelsey,Brooklyn,Brooklyn Area 12,40.625427,-73.768509,Entire home/apt,110,12,211,3.8,225
+296,Airbnb Listing 296,1747,Rebecca,Brooklyn,Brooklyn Area 8,40.54466,-73.827717,Private room,586,5,134,6.0,107
+297,Airbnb Listing 297,1105,Travis,Manhattan,Manhattan Area 19,40.507914,-74.060211,Shared room,585,14,195,5.2,333
+298,Airbnb Listing 298,1974,Justin,Bronx,Bronx Area 8,40.719216,-74.003834,Private room,562,13,167,8.8,255
+299,Airbnb Listing 299,1265,Kristi,Manhattan,Manhattan Area 17,40.847439,-73.863047,Shared room,580,15,331,3.9,243
+300,Airbnb Listing 300,1192,Robert,Staten Island,Staten Island Area 3,40.77531,-73.787779,Private room,92,7,294,11.7,213
